@@ -1,6 +1,6 @@
 # Jobbee API
 >Backend RESTful API for jobs build in Node.js using Express.js & MongoDB
-- Scalable, secure and powerful
+- scalable, secure and powerful
 
 ## Install all Dependencies
 
